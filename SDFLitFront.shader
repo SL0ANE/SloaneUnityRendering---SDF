@@ -1,4 +1,4 @@
-Shader "Sloane/SDFLit"
+Shader "Sloane/SDFLitFront"
 {
     Properties
     {
